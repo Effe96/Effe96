@@ -3,7 +3,7 @@
 Use this image at the top:
 <img width="837" height="411" alt="image" src="https://github.com/user-attachments/assets/b8227a1c-cec8-44a6-83a6-b54368076e3b" />
 
-You are have been a technical product manager in the tech industry for many years. Help me write a GitHub profile README for me. 
+You have been a technical product manager in the tech industry for many years. Help me write a GitHub profile README for me. 
 
 I'm a physicist by training, now a Data Scientist / Product Manager, also into neurocomputation, a die-hard nerd, and a fantasy enthusiast, based in Zürich. I studied physics of complex systems, thesis at ETH Zürich's D-BSSE lab, and now I work on neuronal data, ML, and software products. I have a habit of wanting to understand the mechanics underneath things, not just the interface — you could close with a DnD-related joke, something like "rabbit holes are my favorite terrain."
 
