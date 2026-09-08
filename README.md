@@ -1,33 +1,32 @@
-# Chapter I: I'm Effe 👋
+# Prompt: GitHub Profile for Effe
 
-Physicist, Data Scientist / Product Manager, Neurocomputation lover, die hard nerd and fantasy enthusiast, based in Zürich.
+You are have been a technical product manager in the tech industry for many years. Help me write a GitHub profile README for me. 
 
-I studied physics of complex systems (thesis at ETH Zürich's D-BSSE lab), and now spend most of my time working on neuronal data, ML, and on software products. I have a bad habit of wanting to understand the mechanics underneath, not just the interface (rabbit holes are my favorite terrain).
+I'm a physicist by training, now a Data Scientist / Product Manager, also into neurocomputation, a die-hard nerd, and a fantasy enthusiast, based in Zürich. I studied physics of complex systems, thesis at ETH Zürich's D-BSSE lab, and now I work on neuronal data, ML, and software products. I have a habit of wanting to understand the mechanics underneath things, not just the interface — you could close with a DnD-related joke, something like "rabbit holes are my favorite terrain."
 
-## What I've worked/been working on
-
-- 🧠 **Neuronal classification ML pipeline** — built independently at ETH Zürich D-BSSE. Uses spike sorting (kilosort: https://github.com/mouseland/kilosort, https://kilosort.readthedocs.io/en/latest/, and spyKING Circus https://github.com/spyking-circus/spyking-circus), automatic cell segmentation (https://www.cellpose.org/) based on immunocytochemistry images (many sessions in a very dark room), and machine learning algoritms for classification of neurons as excitatory/inhibitory based on electrical footprint, recorded via HD-MEAs. Are you curious? Feel free to contact me!
-- 🧪 **Functional compound testing** — worked on software tools for compound testing based on electrophysiological recordings, along with advanced analysis of neuronal data (waveform analysis, template studying, time-series analysis). Worked on large-scale dataset from pharmacological companies and laboratories across the world. 
-- 🐉 **Tooling for DnD campaigns/fantasy worldbuilding** — working on a tool to narratively create a town, backed by a realistic database of population with a network guiding the interactions, to be used as a support for the DM (or anyone interested in seeing what happens when the fantasy city they thought of comes to life)
+For the projects section, mention the following:
+- 🧠 A **neuronal classification ML pipeline** I built independently at ETH D-BSSE, using spike sorting (Kilosort, spyKING Circus, with links https://github.com/mouseland/kilosort, https://kilosort.readthedocs.io/en/latest/, https://github.com/spyking-circus/spyking-circus), automatic cell segmentation with Cellpose (https://www.cellpose.org/) based on immunocytochemistry images (mention the many sessions in a very dark room), and ML for classifying neurons as excitatory/inhibitory from their electrical footprint via HD-MEAs. End this one with "feel free to contact me if you are curious!"
+- 🧪 **Functional compound testing** software tools I worked on, based on electrophysiological recordings, with waveform/template/time-series analysis on large-scale pharma datasets from labs worldwide.
+- 🐉 A **DnD/fantasy worldbuilding tool** I'm making, that narratively generates a town backed by a realistic population database with a network guiding interactions, as support for fellow DMs.
 - 🤖 **Understanding LLMs from the ground up** — transformers, attention, tokenization, RLHF/DPO, MoE — approaching it the way I approach a physical system (learning from the ground up).
 
+Then a "currently exploring" section:
+- Agentic frameworks and Claude Skills
+- How AI/ML gets integrated into a company's workflow
+- A joke about how to stop finishing my tokens
+- An idea for a fantasy-based SQL learning game
 
-## Currently exploring
-- Agentic frameworks for LLM tooling (Claude Skills, agent workflows, skills that I personally need)
-- The evolution of AI and ML, and how these can be integrated in the workflow of a company.
-- How to stop finishing my tokens. 
-- A possible fantasy-based learning game for learning SQL coming in the future
+Then a background section, focus on these:
+- 🎓 M.Sc. Physics of Complex Systems with a thesis on neuroscience, plus a Bachelor's in Physics
+- 📍 Zürich, with roots in Emilia Romagna (mention tortellini in any possible way)
+- 🏔️ Mountain hiker
+- ✍️ Reader/drawer/writer who published two fantasy novels as a teen (yes I still have some copies, yes they are in Italian)
+- 🏞️ A joke about always finding a hill to die on to keep the conversation going
 
-## Background
-- 🎓 M.Sc. Physics of Complex Systems, Bachelor's in Physics (thesis in neuroscience/neurocomputation)
-- 📍 Zürich, Switzerland — roots in Emilia Romagna (Italy), ask me about tortellini. 
-- 🏔️ Lover of mountains, hiker over the world (still walking over the mountain though, not running yet)
-- ✍️ Reader, drawer, and writer. Published two fantasy novels in my early teens. I still like to build cool stuff and think of cool stories, for me. 
-- 🏞️ Will always find a hill to die on, to keep the conversation going. 
+Then an "elsewhere" section:
+- 🌐 My personal website (coming soon)
+- 💼 My LinkedIn profile — https://www.linkedin.com/in/francesco-modena/
 
-## Elsewhere
-- 🌐 [personal website] — coming soon
-- 💼 [LinkedIn] — https://www.linkedin.com/in/francesco-modena/
+*End with one line about the fact that I love talking about everything, but the topics that I will love you for are neuroscience, physics, MLOps, ML, and fantasy*
 
----
-*Open to basically any kind of conversations, but neuroscience tooling, physics, MLOps, ML, and fantasy will make me go crazy and I will love you.*
+Keep the tone nerdy, dry-humored, first person, informal but not sloppy, with bold section headers and emoji bullets like a typical dev profile README. 
