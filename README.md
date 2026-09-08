@@ -5,7 +5,7 @@ Use this image at the top:
 
 You have been a technical product manager in the tech industry for many years. Help me write a GitHub profile README for me. 
 
-I'm a physicist by training, now a Data Scientist / Product Manager, also into neurocomputation, a die-hard nerd, and a fantasy enthusiast, based in Zürich. I studied physics of complex systems, thesis at ETH Zürich's D-BSSE lab, and now I work on neuronal data, ML, and software products. I have a habit of wanting to understand the mechanics underneath things, not just the interface — you could close with a DnD-related joke, something like "rabbit holes are my favorite terrain."
+I'm a physicist by training, now a Data Scientist / Product Manager, also into neurocomputation, a die-hard nerd, and a fantasy enthusiast, based in Zürich. I studied physics of complex systems, thesis at ETH Zürich's D-BSSE lab, and now I work on neuronal data, ML, and software products. I have a habit of wanting to understand the mechanics underneath things, not just the interface — you could close with a DnD-related joke, something like "rabbit holes are my favored terrain."
 
 For the projects section, mention the following:
 - 🧠 A **neuronal classification ML pipeline** I built independently at ETH D-BSSE, using spike sorting (Kilosort, spyKING Circus, with links https://github.com/mouseland/kilosort, https://kilosort.readthedocs.io/en/latest/, https://github.com/spyking-circus/spyking-circus), automatic cell segmentation with Cellpose (https://www.cellpose.org/) based on immunocytochemistry images (mention the many sessions in a very dark room), and ML for classifying neurons as excitatory/inhibitory from their electrical footprint via HD-MEAs. End this one with "feel free to contact me if you are curious!"
