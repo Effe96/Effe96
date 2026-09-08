@@ -1,4 +1,4 @@
-# print(Hello World, I'm Effe 👋)
+# Chapter I: I'm Effe 👋
 
 Physicist, Data Scientist / Product Manager, Neurocomputation lover, die hard nerd and fantasy enthusiast, based in Zürich.
 
@@ -14,14 +14,16 @@ I studied physics of complex systems (thesis at ETH Zürich's D-BSSE lab), and n
 
 ## Currently exploring
 - Agentic frameworks for LLM tooling (Claude Skills, agent workflows, skills that I personally need)
-- SQL deep-dive with PostgreSQL + DBeaver (with a possible fantasy-based learning game coming in the future)
+- The evolution of AI and ML, and how these can be integrated in the workflow of a company.
+- How to stop finishing my tokens. 
+- A possible fantasy-based learning game for learning SQL coming in the future
 
 ## Background
 - 🎓 M.Sc. Physics of Complex Systems, Bachelor's in Physics (thesis in neuroscience/neurocomputation)
 - 📍 Zürich, Switzerland — roots in Emilia Romagna (Italy), ask me about tortellini. 
 - 🏔️ Lover of mountains, hiker over the world (still walking over the mountain though, not running yet)
 - ✍️ Reader, drawer, and writer. Published two fantasy novels in my early teens. I still like to build cool stuff and think of cool stories, for me. 
-- 🏞️ Will always find a hill to die on, to keep the conversatino going. 
+- 🏞️ Will always find a hill to die on, to keep the conversation going. 
 
 ## Elsewhere
 - 🌐 [personal website] — coming soon
